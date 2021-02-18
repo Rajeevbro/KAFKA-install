@@ -24,7 +24,7 @@
   kafka-console-producer.bat --broker-list localhost:9092 --topic test
   ```
   - Running kafka consumer
-  -```Terminal
+  ```Terminal
   kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test --from-beginning
   ```
 
